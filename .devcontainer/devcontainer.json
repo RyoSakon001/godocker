@@ -14,7 +14,8 @@
 				"golang.Go",
 				"GitHub.copilot",
 				"eamodio.gitlens",
-				"HookyQR.beautify"
+				"HookyQR.beautify",
+				"formulahendry.code-runner"
 			]
 		}
 	}
